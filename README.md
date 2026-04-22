@@ -46,36 +46,8 @@ Git • Linux • Jupyter Notebook • VS Code
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ndjiba-rahal&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndjiba-rahal&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndjiba-rahal&theme=tokyonight" />
-</p>
-
----
-
-## GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ndjiba-rahal&row=1&column=6" />
-</p>
-
----
-
 ## Contact
-LinkedIn: https://linkedin.com/in/nadjiba rahal  
+LinkedIn: https://www.linkedin.com/in/rahal-nadjiba-264053339
 Email: rahalnadjiba5@gmail.com
 
 ---
