@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Engineer | Algeria</h3>
 
 <p align="center">
-Focused on building intelligent systems using Artificial Intelligence, Data Science, and Machine Learning.
+Passionate about engineering production-grade AI systems, Retrieval-Augmented Generation (RAG), and data processing pipelines. Target-oriented for international AI & Data Science opportunities.
 </p>
 
 ---
@@ -33,6 +33,9 @@ Git • Linux • Jupyter Notebook • VS Code
 ---
 
 ## Featured Projects
+### Enterprise RAG Intelligence System
+- Production-grade multilingual document QA engine built with zero-hallucination guardrails.
+Tech Stack: Python, FastAPI, Llama-3 (Groq API), ChromaDB, Docker, Streamlit
 
 ### Personality Analysis AI (RAG System)
 - Retrieval-Augmented Generation system for personality analysis
