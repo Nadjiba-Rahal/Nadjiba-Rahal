@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ANIMATED TYPING BANNER -->
@@ -24,189 +23,265 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/2563EB" height="22" /> Technical Overview
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22" /> Technical Overview
 
-* **Education:** Final-Year State Computer Science Engineering Student at **ESI Alger** (École Nationale Supérieure d'Informatique), specializing in *Intelligent Systems and Data* (3CSSID / 5th Year).
-* **Industry Experience:** Former Data Analyst Intern at **Sonatrach Exploration Division** (Snowflake, SQL Data Warehousing, Power BI) and Information Systems Intern at **Sonelgaz**.
-* **Core Competencies:** Production RAG Architectures, Asynchronous Event-Driven Streaming, Hardware-Aware Neural Architecture Search (HW-NAS), LLM Integration, and Stateful Backend Design.
+* **Education:** Final-Year State Computer Science Engineering Student at **ESI Alger** (École Nationale Supérieure d'Informatique), specializing in *Intelligent Systems and Data* (3CSSID / 5th Year)[cite: 1].
+* **Industry Experience:** Former Data Analyst Intern at **Sonatrach Exploration Division** (Snowflake, SQL Data Warehousing, Power BI) and Information Systems Intern at **Sonelgaz**[cite: 1].
+* **Core Competencies:** Production RAG Architectures, Asynchronous Event-Driven Streaming, Hardware-Aware Neural Architecture Search (HW-NAS), LLM Integration, and Stateful Backend Design[cite: 1].
 * **Languages:** 
-  <img src="https://img.shields.io/badge/English-C1_Advanced-blue?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/French-B2_Fluent-blue?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/Arabic-Native-blue?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/German-A2-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-C1_Advanced-007ACC?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/French-B2_Fluent-007ACC?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Arabic-Native-007ACC?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/German-A2-007ACC?style=flat-square" />[cite: 1]
 * **Target Opportunities:** AI Software Engineering, Machine Learning Engineering, Data Engineering, Backend Engineering, AI Research & Development.
 
 ---
 
-## <img src="https://cdn.simpleicons.org/target/2563EB" height="22" /> Active Engineering Focus
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="22" height="22" /> Active Engineering Focus
 
-```plain
-+-------------------------------------------------------------------------------+
-|                             CURRENT SYSTEM FOCUS                              |
-+----------------------------------+--------------------------------------------+
-| Production Architectures         | Applied Research                           |
-| - Retrieval-Augmented Generation | - Hardware-Aware NAS (HW-NAS) Optimization |
-| - Stateful Event Streaming       | - Multi-Agent LLM Orchestration Systems    |
-| - Zero-Hallucination Guardrails  | - Model Quantization & Acceleration        |
-+----------------------------------+--------------------------------------------+
-```
-
-## <img src="https://cdn.simpleicons.org/stackshare/2563EB" height="22" /> Technical Stack
-
-### Core Runtimes & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### AI & Machine Learning Systems
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-1E1E1E?style=for-the-badge&logo=groq&logoColor=white)
-
-### Backend & Web Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Databases & Data Warehousing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge&logo=chromadb&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-
-### DevOps, Cloud & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="left">Production Architectures</th>
+      <th width="50%" align="left">Applied Research</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Retrieval-Augmented Generation (RAG)</li>
+          <li>Stateful Real-Time Event Streaming</li>
+          <li>Zero-Hallucination Production Guardrails</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Hardware-Aware NAS (HW-NAS) Optimization</li>
+          <li>Multi-Agent LLM Orchestration Systems</li>
+          <li>Model Quantization & Inference Acceleration</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/git/2563EB" height="22" /> Featured Engineering Projects
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="22" height="22" /> Technical Stack
+
+### Core Runtimes & Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### AI & Machine Learning Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### Backend & Web Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### Databases & Data Warehousing
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+</p>
+
+### DevOps, Cloud & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22" height="22" /> Featured Engineering Projects
 
 ### 1. Enterprise RAG Intelligence System
-**Production-Grade Multilingual Document Intelligence Platform**
+**Production-Grade Multilingual Document Intelligence Platform**[cite: 1]
 
-```plain
-+---------------------------------------------------------------------------------+
-|                       ENTERPRISE RAG ENGINE PIPELINE                            |
-| PDF Ingestion --> Text Splitting --> ChromaDB --> FastAPI --> Groq Llama-3      |
-+---------------------------------------------------------------------------------+
-```
+<table>
+  <tr>
+    <td align="center"><b>Pipeline Flow</b></td>
+    <td><code>PDF Ingestion</code> ➔ <code>Text Splitting</code> ➔ <code>ChromaDB Vector Store</code> ➔ <code>FastAPI Engine</code> ➔ <code>Llama-3 (Groq API)</code></td>
+  </tr>
+</table>
 
-Built a zero-cost, zero-hallucination RAG system processing complex PDFs in English, French, and Arabic. Integrated ChromaDB hybrid vector search with page-diversity filtering to prevent context leakage. Developed FastAPI REST endpoints with sub-second response times and an automated quality evaluation CLI.
+* Built a zero-cost, zero-hallucination RAG system processing complex PDFs in English, French, and Arabic[cite: 1].
+* Integrated **ChromaDB** hybrid vector search with page-diversity filtering to prevent context leakage[cite: 1].
+* Developed **FastAPI** REST endpoints with sub-second response times and an automated quality evaluation CLI[cite: 1].
 
-**Tech Stack:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1E90FF?style=flat-square&logo=chromadb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-1E1E1E?style=flat-square&logo=groq&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />[cite: 1]
 
 ---
 
 ### 2. Real-Time Event Streaming & Commerce Intelligence Platform
-**Zero-Cost Stateful Event Processing & Risk Scoring Engine**
+**Zero-Cost Stateful Event Processing & Risk Scoring Engine**[cite: 1]
 
-```plain
-+---------------------------------------------------------------------------------+
-|                    REAL-TIME EVENT ANALYTICS ARCHITECTURE                       |
-| Async Event Bus (asyncio.Queue) --> Dynamic Risk Engine --> DuckDB In-Memory   |
-+---------------------------------------------------------------------------------+
-```
+<table>
+  <tr>
+    <td align="center"><b>Architecture</b></td>
+    <td><code>Async Event Bus (asyncio.Queue)</code> ➔ <code>Dynamic Risk Scoring</code> ➔ <code>In-Memory DuckDB OLAP</code></td>
+  </tr>
+</table>
 
-Architected an asynchronous event-driven streaming platform built on non-blocking asyncio.Queue pipelines. Embedded DuckDB for live SQL analytics over stream windows, dynamic pricing logic, and inventory depletion alerts. Implemented memory-bounded windowing algorithms to prevent memory leaks during long-running sessions.
+* Architected an asynchronous event-driven streaming platform built on non-blocking `asyncio.Queue` pipelines[cite: 1].
+* Embedded **DuckDB** for live SQL analytics over stream windows, dynamic pricing logic, and inventory depletion alerts[cite: 1].
+* Implemented memory-bounded windowing algorithms to prevent memory leaks during long-running sessions.
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />[cite: 1]
 
 ---
 
 ### 3. AI-Enhanced White-Label E-Commerce Platform
-**Full-Stack E-Commerce Platform Powered by Generative AI**
+**Full-Stack E-Commerce Platform Powered by Generative AI**[cite: 1]
 
-Architected a single-tenant e-commerce core with NextAuth.js (JWT), MongoDB, and Cloudinary media processing. Integrated Google Gemini 1.5 Flash API to automate high-throughput product description generation. Implemented Cash-on-Delivery (COD) checkout workflows, local cart state persistence, and automatic inventory decrements.
+* Architected a single-tenant e-commerce core with NextAuth.js (JWT), MongoDB, and Cloudinary media processing[cite: 1].
+* Integrated **Google Gemini 1.5 Flash API** to automate high-throughput product description generation[cite: 1].
+* Implemented Cash-on-Delivery (COD) checkout workflows, local cart state persistence, and automatic inventory decrements[cite: 1].
 
-**Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GoogleGemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-## <img src="https://cdn.simpleicons.org/principles/2563EB" height="22" /> Engineering Principles
-
-| Principle | Execution Strategy |
-|-----------|-------------------|
-| **Systemic Maintainability** | Prefer clean, self-documenting code with comprehensive automated tests |
-| **Simple Architecture** | Avoid unnecessary infrastructure overhead; leverage in-memory and local execution where feasible |
-| **Data Hygiene** | Strict separation of financial states, isolation of event payloads, and bounded memory limits |
-| **Empirical Benchmarking** | Continuously evaluate latency, groundedness, and error ratios using CLI test harnesses |
+**Tech Stack:**  
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />[cite: 1]
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/2563EB" height="22" /> Professional Industry Experience
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22" height="22" /> Engineering Principles
 
-### Data Analyst Intern @ Sonatrach Exploration Division *(Sep 2025 – Dec 2025)*
-- Designed SQL & Snowflake data warehousing pipelines for large-scale technical oil exploration datasets
-- Engineered operational KPIs and interactive Power BI dashboards for operational performance tracking
-
-### Information Systems Intern @ Sonelgaz Information Systems Dept. *(Aug 2025 – Sep 2025)*
-- Supported enterprise document management software (GED) integrated with Oracle Database environments
-- Conducted workflow and database schema analyses to assist process optimization
-
-### Community Event Organizer @ Women Techmakers *(Sep 2025 – Nov 2025)*
-- Co-organized technical workshops and events promoting AI engineering and computer science initiatives
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Principle</th>
+      <th width="70%">Execution Strategy</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Systemic Maintainability</b></td>
+      <td>Prefer clean, self-documenting code with comprehensive automated tests.</td>
+    </tr>
+    <tr>
+      <td><b>Simple Architecture</b></td>
+      <td>Avoid unnecessary infrastructure overhead; leverage in-memory and local execution where feasible.</td>
+    </tr>
+    <tr>
+      <td><b>Data Hygiene</b></td>
+      <td>Strict separation of financial states, isolation of event payloads, and bounded memory limits.</td>
+    </tr>
+    <tr>
+      <td><b>Empirical Benchmarking</b></td>
+      <td>Continuously evaluate latency, groundedness, and error ratios using CLI test harnesses.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/certification/2563EB" height="22" /> Certifications & Standards
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22" height="22" /> Professional Industry Experience
 
-- **EF SET English Certificate (C1 Advanced)** — EF Standard English Test (2026)
-- **AI Ethics** — DataCamp (2026)
-- **Python for Everybody Specialization** — University of Michigan / Coursera (2025)
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Role & Organization</th>
+      <th width="20%">Period</th>
+      <th width="45%">Key Deliverables</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Data Analyst Intern</b><br>Sonatrach Exploration Division[cite: 1]</td>
+      <td>Sep 2025 – Dec 2025[cite: 1]</td>
+      <td>Engineered SQL & Snowflake data warehousing pipelines and dynamic Power BI performance dashboards for exploration metrics[cite: 1].</td>
+    </tr>
+    <tr>
+      <td><b>Information Systems Intern</b><br>Sonelgaz Information Systems Dept.[cite: 1]</td>
+      <td>Aug 2025 – Sep 2025[cite: 1]</td>
+      <td>Supported enterprise document management software (GED) integrated with Oracle Database environments[cite: 1].</td>
+    </tr>
+    <tr>
+      <td><b>Community Event Organizer</b><br>Women Techmakers[cite: 1]</td>
+      <td>Sep 2025 – Nov 2025[cite: 1]</td>
+      <td>Co-organized technical workshops and events promoting AI engineering and computer science initiatives[cite: 1].</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/2563EB" height="22" /> GitHub Analytics & Metrics
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" /> Certifications & Standards
+
+* **EF SET English Certificate (C1 Advanced)** — EF Standard English Test (2026)[cite: 1]
+* **AI Ethics** — DataCamp (2026)[cite: 1]
+* **Python for Everybody Specialization** — University of Michigan / Coursera (2025)[cite: 1]
+
+---
+
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22" height="22" /> GitHub Analytics & Metrics
+
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadjiba-rahal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadjiba-rahal&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nadjiba04&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Nadjiba's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjiba04&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjiba-rahal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nadjiba04&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
+
+</div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/email/2563EB" height="22" /> Contact & Professional Enquiries
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" height="22" /> Contact & Professional Enquiries
 
-I am actively seeking software engineering, machine learning engineering, and AI research opportunities. Feel free to connect with me:
+I am actively seeking software engineering, machine learning engineering, and AI research opportunities.
+
+<div align="center">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahal-nadjiba-264053339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/nadjiba-rahal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:rahalnadjiba5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rahalnadjiba5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Direct" /></a>
+  <a href="https://www.linkedin.com/in/rahal-nadjiba-264053339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 </p>
-
----
 
 <p align="center">
   <i>“Building intelligent systems that bridge research and production.”</i>
 </p>
+
+</div>
