@@ -251,22 +251,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22" height="22" /> GitHub Analytics & Metrics
-
-<div align="center">
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Nadjiba04&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Nadjiba's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadjiba04&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nadjiba04&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" height="22" /> Contact & Professional Enquiries
 
