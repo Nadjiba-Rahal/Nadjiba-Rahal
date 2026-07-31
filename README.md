@@ -25,14 +25,14 @@
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22" height="22" /> Technical Overview
 
-* **Education:** Final-Year State Computer Science Engineering Student at **ESI Alger** (École Nationale Supérieure d'Informatique), specializing in *Intelligent Systems and Data* (3CSSID / 5th Year)[cite: 1].
-* **Industry Experience:** Former Data Analyst Intern at **Sonatrach Exploration Division** (Snowflake, SQL Data Warehousing, Power BI) and Information Systems Intern at **Sonelgaz**[cite: 1].
-* **Core Competencies:** Production RAG Architectures, Asynchronous Event-Driven Streaming, Hardware-Aware Neural Architecture Search (HW-NAS), LLM Integration, and Stateful Backend Design[cite: 1].
+* **Education:** Final-Year State Computer Science Engineering Student at **ESI Alger** (École Nationale Supérieure d'Informatique), specializing in *Intelligent Systems and Data* (3CSSID / 5th Year).
+* **Industry Experience:** Former Data Analyst Intern at **Sonatrach Exploration Division** (Snowflake, SQL Data Warehousing, Power BI) and Information Systems Intern at **Sonelgaz**.
+* **Core Competencies:** Production RAG Architectures, Asynchronous Event-Driven Streaming, Hardware-Aware Neural Architecture Search (HW-NAS), LLM Integration, and Stateful Backend Design.
 * **Languages:** 
   <img src="https://img.shields.io/badge/English-C1_Advanced-007ACC?style=flat-square" /> 
   <img src="https://img.shields.io/badge/French-B2_Fluent-007ACC?style=flat-square" /> 
   <img src="https://img.shields.io/badge/Arabic-Native-007ACC?style=flat-square" /> 
-  <img src="https://img.shields.io/badge/German-A2-007ACC?style=flat-square" />[cite: 1]
+  <img src="https://img.shields.io/badge/German-A2-007ACC?style=flat-square" />
 * **Target Opportunities:** AI Software Engineering, Machine Learning Engineering, Data Engineering, Backend Engineering, AI Research & Development.
 
 ---
@@ -119,7 +119,7 @@
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22" height="22" /> Featured Engineering Projects
 
 ### 1. Enterprise RAG Intelligence System
-**Production-Grade Multilingual Document Intelligence Platform**[cite: 1]
+**Production-Grade Multilingual Document Intelligence Platform**
 
 <table>
   <tr>
@@ -128,9 +128,9 @@
   </tr>
 </table>
 
-* Built a zero-cost, zero-hallucination RAG system processing complex PDFs in English, French, and Arabic[cite: 1].
-* Integrated **ChromaDB** hybrid vector search with page-diversity filtering to prevent context leakage[cite: 1].
-* Developed **FastAPI** REST endpoints with sub-second response times and an automated quality evaluation CLI[cite: 1].
+* Built a zero-cost, zero-hallucination RAG system processing complex PDFs in English, French, and Arabic.
+* Integrated **ChromaDB** hybrid vector search with page-diversity filtering to prevent context leakage.
+* Developed **FastAPI** REST endpoints with sub-second response times and an automated quality evaluation CLI.
 
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -138,12 +138,12 @@
 <img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 ---
 
 ### 2. Real-Time Event Streaming & Commerce Intelligence Platform
-**Zero-Cost Stateful Event Processing & Risk Scoring Engine**[cite: 1]
+**Zero-Cost Stateful Event Processing & Risk Scoring Engine**
 
 <table>
   <tr>
@@ -152,8 +152,8 @@
   </tr>
 </table>
 
-* Architected an asynchronous event-driven streaming platform built on non-blocking `asyncio.Queue` pipelines[cite: 1].
-* Embedded **DuckDB** for live SQL analytics over stream windows, dynamic pricing logic, and inventory depletion alerts[cite: 1].
+* Architected an asynchronous event-driven streaming platform built on non-blocking `asyncio.Queue` pipelines.
+* Embedded **DuckDB** for live SQL analytics over stream windows, dynamic pricing logic, and inventory depletion alerts.
 * Implemented memory-bounded windowing algorithms to prevent memory leaks during long-running sessions.
 
 **Tech Stack:**  
@@ -161,23 +161,23 @@
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
 <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
 
 ---
 
 ### 3. AI-Enhanced White-Label E-Commerce Platform
-**Full-Stack E-Commerce Platform Powered by Generative AI**[cite: 1]
+**Full-Stack E-Commerce Platform Powered by Generative AI**
 
-* Architected a single-tenant e-commerce core with NextAuth.js (JWT), MongoDB, and Cloudinary media processing[cite: 1].
-* Integrated **Google Gemini 1.5 Flash API** to automate high-throughput product description generation[cite: 1].
-* Implemented Cash-on-Delivery (COD) checkout workflows, local cart state persistence, and automatic inventory decrements[cite: 1].
+* Architected a single-tenant e-commerce core with NextAuth.js (JWT), MongoDB, and Cloudinary media processing.
+* Integrated **Google Gemini 1.5 Flash API** to automate high-throughput product description generation.
+* Implemented Cash-on-Delivery (COD) checkout workflows, local cart state persistence, and automatic inventory decrements.
 
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />[cite: 1]
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 ---
 
@@ -224,19 +224,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Data Analyst Intern</b><br>Sonatrach Exploration Division[cite: 1]</td>
-      <td>Sep 2025 – Dec 2025[cite: 1]</td>
-      <td>Engineered SQL & Snowflake data warehousing pipelines and dynamic Power BI performance dashboards for exploration metrics[cite: 1].</td>
+      <td><b>Data Analyst Intern</b><br>Sonatrach Exploration Division</td>
+      <td>Sep 2025 – Dec 2025</td>
+      <td>Engineered SQL & Snowflake data warehousing pipelines and dynamic Power BI performance dashboards for exploration metrics.</td>
     </tr>
     <tr>
-      <td><b>Information Systems Intern</b><br>Sonelgaz Information Systems Dept.[cite: 1]</td>
-      <td>Aug 2025 – Sep 2025[cite: 1]</td>
-      <td>Supported enterprise document management software (GED) integrated with Oracle Database environments[cite: 1].</td>
+      <td><b>Information Systems Intern</b><br>Sonelgaz Information Systems Dept.</td>
+      <td>Aug 2025 – Sep 2025</td>
+      <td>Supported enterprise document management software (GED) integrated with Oracle Database environments.</td>
     </tr>
     <tr>
-      <td><b>Community Event Organizer</b><br>Women Techmakers[cite: 1]</td>
-      <td>Sep 2025 – Nov 2025[cite: 1]</td>
-      <td>Co-organized technical workshops and events promoting AI engineering and computer science initiatives[cite: 1].</td>
+      <td><b>Community Event Organizer</b><br>Women Techmakers</td>
+      <td>Sep 2025 – Nov 2025</td>
+      <td>Co-organized technical workshops and events promoting AI engineering and computer science initiatives.</td>
     </tr>
   </tbody>
 </table>
@@ -245,12 +245,11 @@
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" /> Certifications & Standards
 
-* **EF SET English Certificate (C1 Advanced)** — EF Standard English Test (2026)[cite: 1]
-* **AI Ethics** — DataCamp (2026)[cite: 1]
-* **Python for Everybody Specialization** — University of Michigan / Coursera (2025)[cite: 1]
+* **EF SET English Certificate (C1 Advanced)** — EF Standard English Test (2026)
+* **AI Ethics** — DataCamp (2026)
+* **Python for Everybody Specialization** — University of Michigan / Coursera (2025)
 
 ---
-
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="22" height="22" /> Contact & Professional Enquiries
 
