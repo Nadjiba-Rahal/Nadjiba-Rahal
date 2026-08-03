@@ -244,7 +244,7 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22" height="22" /> Certifications & Standards
-
+* **Microsoft Applied Skills — Deploy Cloud-Native Apps Using Azure Container Apps** August 2026  [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/NadjibaRahal-8411/D8D54ECF3E4DC9CE?sharingId=1E8FA79BB27257BA)
 * **EF SET English Certificate (C1 Advanced)** — EF Standard English Test (2026)
 * **AI Ethics** — DataCamp (2026)
 * **Python for Everybody Specialization** — University of Michigan / Coursera (2025)
