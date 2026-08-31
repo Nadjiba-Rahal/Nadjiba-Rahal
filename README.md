@@ -1,437 +1,476 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1800&color=2563EB&center=true&vCenter=true&width=900&lines=Nadjiba+Rahal;AI+Software+Engineer;Intelligent+Systems+%26+Data+Engineer;Building+Agentic+AI+%26+Intelligent+Data+Systems" alt="Nadjiba Rahal Header Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1600&color=2563EB&center=true&vCenter=true&width=950&lines=Nadjiba+Rahal;AI+Software+Engineer;Intelligent+Systems+%26+Data+Engineer;Building+AI+Systems+from+Research+to+Production" alt="Nadjiba Rahal" />
 
-<p>
-  <strong>AI Software Engineering · Machine Learning · Agentic AI · Data Systems</strong>
-</p>
+<br>
 
-<p>
-  Final-Year State Engineering Degree in Computer Science<br>
-  <strong>École Nationale Supérieure d'Informatique — ESI Algiers</strong><br>
-  Intelligent Systems & Data Science
-</p>
+<img src="https://komarev.com/ghpvc/?username=Nadjiba-Rahal&style=flat-square&color=2563EB" alt="Profile views">
 
-<p>
-  <a href="https://www.linkedin.com/in/rahal-nadjiba-264053339">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rahalnadjiba5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
-</p>
+<br><br>
+
+<a href="https://nadjiba-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/rahal-nadjiba-264053339">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:rahalnadjiba5@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square">
+<img src="https://img.shields.io/badge/Agentic%20AI-0891B2?style=flat-square">
+<img src="https://img.shields.io/badge/Data%20Systems-059669?style=flat-square">
+<img src="https://img.shields.io/badge/Research-DB2777?style=flat-square">
+
+<br><br>
+
+**Final-Year State Engineering Degree in Computer Science**
+**École Nationale Supérieure d'Informatique — ESI Algiers**
+*Intelligent Systems & Data Science*
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"> About
+# `01` — About
 
-I build **AI-powered software systems that connect machine learning with production engineering**.
+My projects range from **agentic AI and multimodal systems** to **machine learning research, real-time applications, backend platforms and 3D systems**.
 
-My work spans:
+I care about the layer between a model and a real product:
 
-* **Agentic AI & LLM applications**
-* **RAG and semantic search**
-* **Machine learning & computer vision**
-* **Data engineering & real-time systems**
-* **Backend/API architecture**
-* **Neural Architecture Search**
-* **Multimodal and medical AI research**
+**data → models → intelligence → systems → deployment**
 
-Currently focused on building systems that move beyond individual models toward **complete, modular AI pipelines**.
+<br clear="right"/>
 
-### Target Roles
+### Currently interested in
 
-`AI Software Engineer` · `Machine Learning Engineer` · `AI Engineer` · `Data Engineer` · `Backend Engineer` · `AI Research Engineer`
+`AI Engineering` · `Agentic Systems` · `Computer Vision` · `Multimodal AI` · `Data Engineering` · `Backend Systems` · `Efficient ML`
 
 ---
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="22"> Current Focus
+# `02` — What I Build
 
-<table>
-<tr>
-<th width="50%">Engineering</th>
-<th width="50%">Research</th>
-</tr>
+<div align="center">
 
-<tr>
-<td>
+| <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="32"><br>**AI Systems** | <img src="https://img.icons8.com/fluency/48/brain.png" width="32"><br>**Machine Learning** | <img src="https://img.icons8.com/fluency/48/database.png" width="32"><br>**Data Systems** | <img src="https://img.icons8.com/fluency/48/code.png" width="32"><br>**Software** |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Agents                                                                                                 | Computer Vision                                                                            | Pipelines                                                                                 | Backend                                                                           |
+| RAG                                                                                                    | NLP                                                                                        | Retrieval                                                                                 | Full-Stack                                                                        |
+| LLM Apps                                                                                               | Multimodal AI                                                                              | Analytics                                                                                 | Mobile                                                                            |
+| Automation                                                                                             | Model Evaluation                                                                           | Real-Time                                                                                 | 3D / Web                                                                          |
 
-* Agentic AI systems
-* Multi-agent orchestration
-* RAG pipelines
-* Real-time event-driven systems
-* Backend APIs
-* Data-intensive applications
-* AI-powered automation
-
-</td>
-
-<td>
-
-* Hardware-Aware Neural Architecture Search
-* Multi-objective CNN optimization
-* Medical Vision-Language Models
-* Domain & language shift robustness
-* Multimodal representation learning
-* Efficient AI inference
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="22"> Featured Projects
+# `03` — Selected Projects
 
-## 01 · Agentic Video Assistant
+## ◈ AFTERLIGHT
 
-**Multi-agent generative AI system for automated video creation**
+<div align="center">
 
-A modular AI system that transforms a short idea into a generated video.
+### **A persistent 3D multiplayer world**
+
+</div>
+
+An experimental online world built around **cooperative exploration, customization and shared experiences**.
 
 ```mermaid
 flowchart LR
-
-    A["User Idea"] --> B["AI Agent"]
-
-    B --> C["Research"]
-    B --> D["Story / Prompt"]
-
-    D --> E["Director Agent"]
-    E --> F["Storyboard / Scenes"]
-
-    F --> G["Video Generation"]
-
-    G --> H["FFmpeg Composition"]
-    H --> I["Final Video"]
+    A[Character Creation] --> B[Persistent World]
+    B --> C[Private Sessions]
+    C --> D[Real-Time Players]
+    D --> E[Cooperative Gameplay]
+    E --> F[Homes & Building]
+    F --> G[Exploration]
 ```
 
-### What it demonstrates
+**Current systems**
 
-* `smolagents`
-* Agent orchestration
-* Tool calling
-* Prompt engineering
-* Storyboard generation
-* Scene-based video generation
-* Asynchronous generation workflows
-* FFmpeg composition
+|             |                                                     |
+| ----------- | --------------------------------------------------- |
+| 3D World    | Three.js + React Three Fiber                        |
+| Physics     | Rapier                                              |
+| Characters  | Data-driven customization                           |
+| Multiplayer | WebSockets                                          |
+| Sessions    | Private 2–8 player rooms                            |
+| State       | Shared realtime player state                        |
+| Roadmap     | Building · Crafting · Quests · Exploration · Mobile |
 
-The architecture is designed to evolve toward a complete pipeline combining:
+**Stack**
 
-`Research → Script → Visuals → Voice → Music → SFX → Composition`
+`TypeScript` `React` `Three.js` `R3F` `Drei` `Rapier` `WebSockets`
+
+<a href="https://github.com/Nadjiba-Rahal/open-world">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
-## 02 · Local AI Job Intelligence Agent
+## ◈ PORTFOLIO
 
-**AI-powered job discovery and intelligence system for the Algerian job market**
+<div align="center">
 
-An automated system designed to collect, understand, classify and surface job opportunities from fragmented sources.
+### **Interactive AI & Software Engineering Portfolio**
+
+<a href="https://nadjiba-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</div>
+
+A custom web platform designed to present my **engineering projects, research, experience and technical work** through an interactive interface rather than a conventional resume.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Vercel`
+
+---
+
+## ◈ BELLEVUE
+
+<div align="center">
+
+### **Medical Practice Management Platform**
+
+</div>
+
+A full-stack platform for a medical practice combining a public booking experience with administrative management.
+
+**Features**
+
+`Appointment Booking` · `Availability` · `Admin Dashboard` · `Authentication` · `Schedule Management`
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `PostgreSQL` `Server Actions`
+
+---
+
+## ◈ ISHARA
+
+<div align="center">
+
+### **Algerian Sign Language AI Platform**
+
+</div>
+
+An end-to-end accessibility system combining **computer vision, machine learning and 3D avatar technology** for Algerian Sign Language.
 
 ```mermaid
 flowchart LR
-
-    A["Job Sources"] --> B["Collection"]
-    B --> C["OCR / Extraction"]
-    C --> D["Multilingual Processing"]
-    D --> E["Embeddings"]
-    E --> F["Semantic Search"]
-
-    F --> G["AI Ranking"]
-    G --> H["Scam Detection"]
-    H --> I["User Dashboard / Alerts"]
+    A[Camera / Video] --> B[MediaPipe]
+    B --> C[Landmarks]
+    C --> D[ONNX Model]
+    D --> E[Sign Recognition]
+    E --> F[Language Output]
+    F --> G[3D Avatar]
 ```
 
-### Key capabilities
+**Highlights**
 
-* Web and social-source collection
-* OCR with EasyOCR / Tesseract
-* Multilingual job extraction
-* Semantic search
-* Embeddings
-* PostgreSQL
-* Fuzzy Algerian location matching
-* AI summaries
-* Scam detection
-* Telegram notifications
-* FastAPI backend
+* **417-word** Algerian Sign Language dictionary
+* Video-based recognition
+* MediaPipe landmark extraction
+* PyTorch model development
+* ONNX inference
+* 3D avatar rendering
+* Web + mobile architecture
 
-**Focus:** AI agents + information retrieval + data engineering + automation.
+**Stack**
+
+`Python` `PyTorch` `ONNX` `MediaPipe` `.NET` `ASP.NET Core` `Next.js` `React Native` `Three.js`
 
 ---
 
-## 03 · Sign Language AI Platform
+## ◈ AGENTIC VIDEO ASSISTANT
 
-**AI-powered accessibility platform for sign-language understanding**
+<div align="center">
 
-A computer-vision project focused on recognizing sign-language gestures and connecting visual input with meaningful language output.
+### **Multi-Agent Generative Video Pipeline**
 
-Current work includes:
+</div>
 
-* Video-based sign recognition
-* Multi-signer / multi-camera dataset organization
-* Automated label extraction
-* Computer-vision preprocessing
-* AI model training pipeline
-* Accessibility-oriented application design
+A modular AI system that transforms an idea into a structured, generated and composed video.
 
-The project is being developed toward an end-to-end sign-language AI system rather than a standalone classification model.
+```text
+Idea
+ ↓
+Research
+ ↓
+Script / Prompt
+ ↓
+Director Agent
+ ↓
+Storyboard
+ ↓
+Scene Generation
+ ↓
+FFmpeg Composition
+ ↓
+Final Video
+```
+
+**Focus**
+
+`Agent Orchestration` · `Tool Calling` · `Prompt Engineering` · `Async Workflows` · `Video Generation`
+
+**Stack**
+
+`Python` `smolagents` `Gradio` `FFmpeg` `Docker`
 
 ---
 
-## 04 · HAMOS-NAS
+## ◈ DOCUMENT RAG ENGINE
 
-**Multi-Objective Hardware-Aware Neural Architecture Search**
+<div align="center">
 
-Research-oriented project focused on automatically discovering efficient CNN architectures while considering both predictive performance and hardware constraints.
+### **Multilingual Document Intelligence**
+
+</div>
+
+A multilingual retrieval-augmented generation system designed for **English, French and Arabic** documents.
 
 ```mermaid
 flowchart LR
+    A[Documents] --> B[Parsing]
+    B --> C[Chunking]
+    C --> D[Embeddings]
+    D --> E[Vector Store]
+    E --> F[Retrieval]
+    F --> G[Context Filtering]
+    G --> H[LLM]
+    H --> I[Grounded Answer]
+```
 
-    A["Architecture Search Space"]
-    A --> B["Candidate CNNs"]
+**Focus**
 
-    B --> C["Training / Evaluation"]
+`Multilingual Retrieval` · `Embeddings` · `Vector Search` · `Grounded Generation` · `Evaluation`
 
-    C --> D["Accuracy"]
-    C --> E["GPU Latency"]
+**Stack**
 
-    D --> F["Multi-Objective Optimization"]
+`Python` `FastAPI` `LangChain` `ChromaDB` `Sentence Transformers` `Llama 3` `Groq`
+
+---
+
+## ◈ ENTERPRISE E-COMMERCE
+
+<div align="center">
+
+### **AI-Enhanced Commerce Platform**
+
+</div>
+
+A full-stack commerce platform designed around the operational requirements of **cash-on-delivery businesses**.
+
+**Features**
+
+`Product Management` · `Authentication` · `AI Product Content` · `Inventory` · `Cloudinary` · `Local Delivery`
+
+**Stack**
+
+`Next.js` `TypeScript` `MongoDB Atlas` `Cloudinary` `Vercel`
+
+---
+
+## ◈ COMMERCE INTELLIGENCE
+
+<div align="center">
+
+### **Real-Time Commerce Telemetry & Risk Engine**
+
+</div>
+
+A streaming-style data system for simulating commerce activity, processing events asynchronously and producing operational risk signals.
+
+```mermaid
+flowchart LR
+    A[Event Simulation] --> B[Async Processing]
+    B --> C[Analytics]
+    C --> D[Risk Evaluation]
+    D --> E[Dashboard]
+```
+
+**Stack**
+
+`Python` `asyncio` `DuckDB` `Streamlit`
+
+---
+
+## ◈ SENTIMENT ANALYSIS
+
+### **BERT-Based NLP Pipeline**
+
+An end-to-end Transformer pipeline covering text preprocessing, tokenization, contextual representation and sentiment classification.
+
+**Stack**
+
+`Python` `PyTorch` `Transformers` `BERT` `NLP`
+
+---
+
+# `04` — Research
+
+<div align="center">
+
+### Research is where I explore what happens when intelligent systems meet real-world constraints.
+
+</div>
+
+---
+
+## Medical Vision-Language Models
+
+### **What Does Language Alter Medical Vision-Language Model Decisions Across Domains?**
+
+Research studying the interaction between **language shift and medical domain shift** in vision-language models.
+
+The work evaluates multilingual medical VLM behavior on chest X-ray data and investigates how model decisions change across languages and acquisition domains.
+
+**Topics**
+
+`Medical AI` · `Vision-Language Models` · `Multilingual Evaluation` · `Domain Shift` · `Robustness`
+
+---
+
+## HAMOS-NAS
+
+### **Multi-Objective Hardware-Aware Neural Architecture Search**
+
+Research on automatically discovering CNN architectures while jointly considering predictive performance and hardware constraints.
+
+```mermaid
+flowchart LR
+    A[Search Space] --> B[Candidate CNNs]
+    B --> C[Evaluation]
+    C --> D[Accuracy]
+    C --> E[GPU Latency]
+    D --> F[Pareto Optimization]
     E --> F
-
-    F --> G["Pareto Front"]
-    G --> H["Efficient Architectures"]
+    F --> G[Efficient Architectures]
 ```
 
-### Highlights
+**Highlights**
 
-* ~15,000 candidate CNN architectures
-* Multi-objective optimization
-* Hardware-aware search
-* Accuracy vs. latency analysis
-* Pareto-front evaluation
-* GPU benchmarking
-* Dataset-based architecture evaluation
+`~15,000 Architectures` · `Multi-Objective Optimization` · `GPU Benchmarking` · `Pareto Analysis`
 
-**Research area:** Neural Architecture Search · Efficient AI · Model Optimization
+**Topics**
+
+`Neural Architecture Search` · `Efficient AI` · `Model Optimization` · `Hardware-Aware ML`
 
 ---
 
-## 05 · Enterprise RAG Intelligence System
+# `05` — Technology
 
-**Multilingual document intelligence platform**
-
-A production-oriented RAG pipeline for querying complex documents across English, French and Arabic.
-
-```mermaid
-flowchart LR
-
-    A["Documents"] --> B["Ingestion"]
-    B --> C["Chunking"]
-    C --> D["Embeddings"]
-    D --> E["ChromaDB"]
-
-    E --> F["Semantic Retrieval"]
-    F --> G["Context Filtering"]
-    G --> H["LLM"]
-    H --> I["Grounded Answer"]
-```
-
-### Stack
-
-`Python` · `FastAPI` · `ChromaDB` · `Llama 3` · `Groq` · `Streamlit` · `Docker`
-
-### Focus
-
-* Multilingual retrieval
-* Vector search
-* Context filtering
-* Grounded generation
-* REST APIs
-* Automated evaluation
-
----
-
-## 06 · Medical Vision-Language Model Research
-
-**On the Interaction of Domain and Language Shifts in Medical Vision-Language Models**
-
-Research investigating how changes in **medical domain and language** affect vision-language model performance and robustness.
-
-The work explores models and approaches including:
-
-* CLIP
-* SigLIP
-* BLIP / BLIP-2
-* Flamingo
-* LLaVA / LLaVA-Med
-* ALIGN
-
-### Research themes
-
-`Domain Shift` · `Language Shift` · `Multimodal Learning` · `Medical AI` · `Robustness`
-
----
-
-## 07 · AI-Enhanced E-Commerce Platform
-
-**Live full-stack white-label e-commerce platform**
-
-A production-style e-commerce application designed for the Algerian market.
-
-**Live:**
-https://blush-store.vercel.app
-
-### Features
-
-* Next.js 14
-* TypeScript
-* MongoDB
-* NextAuth JWT authentication
-* Cloudinary media management
-* AI-assisted product copywriting
-* Gemini / OpenRouter integration
-* Cash-on-delivery checkout
-* Local delivery workflows
-* 58 Wilayas / commune-level delivery support
-* Atomic inventory management
-
----
-
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"> Technical Stack
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,cs,sql" />
 
-### AI / ML
+### AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-### LLM / Agentic AI
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/smolagents-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white">
 <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLM_Orchestration-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge">
-</p>
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge">
 
-### Backend & Data
+### Backend / Data
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
-<img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black">
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nextjs,postgres,mongodb,docker" />
 
-### Engineering & Infrastructure
+### Frontend / Mobile / 3D
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs,reactnative" />
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel" />
+
+</div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22"> Engineering Principles
+# `06` — Engineering Principles
 
-| Principle             | Approach                                                       |
-| --------------------- | -------------------------------------------------------------- |
-| **Modularity**        | Separate AI logic, services, data and interfaces               |
-| **Maintainability**   | Clean architecture, reusable components and automated tests    |
-| **Data Quality**      | Validation, bounded processing and structured data pipelines   |
-| **Evaluation**        | Benchmark latency, retrieval quality and model performance     |
-| **Practical AI**      | Focus on systems that can be integrated into real applications |
-| **Efficient Systems** | Consider latency, memory and hardware constraints              |
+<div align="center">
 
----
+|    **Build systems, not demos**   |          **Measure what matters**         |       **Keep intelligence modular**      |
+| :-------------------------------: | :---------------------------------------: | :--------------------------------------: |
+| Connect models to usable software | Evaluate quality, latency and constraints | Separate data, AI and application layers |
 
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="22"> Experience
+</div>
 
-| Role                           | Organization                   | Focus                                               |
-| ------------------------------ | ------------------------------ | --------------------------------------------------- |
-| **Data Analyst Intern**        | Sonatrach Exploration Division | SQL, Snowflake, data warehousing, Power BI          |
-| **Information Systems Intern** | Sonelgaz                       | Enterprise document management, Oracle environments |
-| **Technical Event Organizer**  | Women Techmakers               | Technical workshops and community initiatives       |
+I enjoy the part where separate pieces become one system:
 
----
-
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="22"> Certifications
-
-* **Microsoft Applied Skills — Deploy Cloud-Native Apps Using Azure Container Apps** — 2026
-* **Hugging Face — Fundamentals of Agents** — 2026
-* **EF SET English Certificate — C1 Advanced** — 2026
-* **AI Ethics — DataCamp** — 2026
-* **Python for Everybody — University of Michigan / Coursera** — 2025
-
----
-
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocket/rocket-original.svg" width="22"> Current Direction
-
-I am particularly interested in building systems at the intersection of:
-
-```mermaid
-flowchart LR
-
-    AI["Artificial Intelligence"]
-    DATA["Data Engineering"]
-    AGENTS["Agentic Systems"]
-    ML["Machine Learning"]
-    BACKEND["Software Engineering"]
-    RESEARCH["Applied Research"]
-
-    AI --> AGENTS
-    AI --> ML
-    DATA --> AI
-    BACKEND --> AGENTS
-    ML --> RESEARCH
-    AGENTS --> BACKEND
+```text
+Data
+  ↓
+Models
+  ↓
+Intelligence
+  ↓
+APIs
+  ↓
+Applications
+  ↓
+Real Users
 ```
 
-My goal is to build **reliable AI systems that connect research, intelligent models and production software**.
+---
+
+# `07` — Experience
+
+<div align="center">
+
+| Role                           | Organization | Area                               |
+| ------------------------------ | ------------ | ---------------------------------- |
+| **Data Science Intern**        | Sonatrach    | Data · Analytics · Power BI        |
+| **Information Systems Intern** | Sonelgaz     | Enterprise Systems                 |
+| **Engineering Student**        | ESI Algiers  | Intelligent Systems & Data Science |
+
+</div>
 
 ---
 
-# Contact
+# `08` — Certifications
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:rahalnadjiba5@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft-Applied%20Skills-5E5E5E?style=for-the-badge&logo=microsoft">
+<img src="https://img.shields.io/badge/Hugging%20Face-Fundamentals%20of%20Agents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/DataCamp-AI%20Ethics-03EF62?style=for-the-badge">
+<img src="https://img.shields.io/badge/Coursera-Python%20for%20Everybody-0056D2?style=for-the-badge&logo=coursera&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+
+# Let's build something intelligent.
+
+<a href="https://nadjiba-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/rahal-nadjiba-264053339">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</p>
+<br><br>
 
-<p align="center">
-  <i>Building intelligent systems that bridge research and production.</i>
-</p>
+<br>
+
+<i>AI × Software × Data</i>
+
+</div>
